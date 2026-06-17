@@ -645,7 +645,7 @@ export default function App() {
             style={{ color: "#f7c61f" }}
           >
             <span className="block mb-3 sm:mb-0 sm:inline text-[17.2vw] sm:text-[11vw] md:text-[11.2vw] lg:text-[11.5vw] xl:text-[12.1vw]">CHASERS</span>{" "}
-            <span className="block mb-3 sm:mb-0 sm:inline text-[17.2vw] sm:text-[11vw] md:text-[11.2vw] lg:text-[11.5vw] xl:text-[12.1vw]">SPORT</span>{" "}
+            <span className="block mb-3 sm:mb-0 sm:inline text-[17.2vw] sm:text-[11vw] md:text-[11.2vw] lg:text-[11.5vw] xl:text-[12.1vw]">SPORTS</span>{" "}
             <span className="block sm:inline text-[17.2vw] sm:text-[11vw] md:text-[11.2vw] lg:text-[11.5vw] xl:text-[12.1vw]">BAR</span>
           </span>
           <p className="font-display font-semibold text-xs tracking-widest text-[#fff0c4]/40 uppercase mb-8">
