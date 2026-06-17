@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Home Page Route -->
+  <url>
+    <loc>https://chasers-sports-bar.vercel.app/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Menu State -->
+  <url>
+    <loc>https://chasers-sports-bar.vercel.app/?tab=menu</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Catering & Cost Calculator State -->
+  <url>
+    <loc>https://chasers-sports-bar.vercel.app/?tab=catering</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Locations State (General) -->
+  <url>
+    <loc>https://chasers-sports-bar.vercel.app/?tab=locations</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Location Branch: Niles -->
+  <url>
+    <loc>https://chasers-sports-bar.vercel.app/?tab=locations&amp;loc=niles</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Location Branch: Schiller Park -->
+  <url>
+    <loc>https://chasers-sports-bar.vercel.app/?tab=locations&amp;loc=schiller-park</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Location Branch: Lake Zurich -->
+  <url>
+    <loc>https://chasers-sports-bar.vercel.app/?tab=locations&amp;loc=lake-zurich</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Employment State -->
+  <url>
+    <loc>https://chasers-sports-bar.vercel.app/?tab=employment</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

@@ -1,0 +1,6 @@
+{
+  "name": "Chasers Sports Bar & Grill",
+  "description": "Interactive modern website for Chasers Sports Bar & Grill, with locations in Niles, Schiller Park, and Lake Zurich, featuring full menus, party packages, catering cost estimator, and employment applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

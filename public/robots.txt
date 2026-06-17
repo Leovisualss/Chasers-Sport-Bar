@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chasers-sports-bar.vercel.app/sitemap.xml
